@@ -12,5 +12,5 @@ class ShowTeamPage extends Component
         return view('livewire.show-team-page',[
             'members' => $members
         ]);
-    }
+    } 
 }
